@@ -13,3 +13,6 @@ about SQL
 
 day 5
 about ORMs,ALPs
+
+day 6
+about JavaScript
