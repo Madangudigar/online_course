@@ -16,3 +16,6 @@ about ORMs,ALPs
 
 day 6
 about JavaScript
+
+day 7
+about Front End
