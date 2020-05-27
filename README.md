@@ -19,3 +19,6 @@ about JavaScript
 
 day 7
 about Front End
+
+day 8
+about Django
