@@ -22,3 +22,6 @@ about Front End
 
 day 8
 about Django
+
+day 9 
+about Testing, CI/CD
