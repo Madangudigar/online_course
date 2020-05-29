@@ -27,4 +27,4 @@ day 9
 about Testing, CI/CD
 
 day 10 
-about Gitub Travis CI
+Webinar
