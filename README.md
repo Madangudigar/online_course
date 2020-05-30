@@ -28,3 +28,6 @@ about Testing, CI/CD
 
 day 10 
 Webinar
+
+day 11
+about GitHub, Travis CI
