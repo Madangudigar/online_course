@@ -47,4 +47,7 @@ Web Development
 day 15
 about The Web Development Full stack and Creating Web pages
 
+day 16
+about JavaScript fundamentals and Setting up a web server
+
 
