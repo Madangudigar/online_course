@@ -45,7 +45,6 @@ about Security
 Web Development
 
 day 15
-about The Web Development Full stack
+about The Web Development Full stack and Creating Web pages
 
-day 16
-about Creating Web pages
+
