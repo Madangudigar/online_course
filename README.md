@@ -64,4 +64,7 @@ about Introduction To Web Design and HTML & CSS
 day 20
 abot Navigation and Planning A Website
 
+day 21
+about Planning A Website and Digital CV Part 1
+
 
