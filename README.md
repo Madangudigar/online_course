@@ -65,6 +65,9 @@ day 20
 abot Navigation and Planning A Website
 
 day 21
-about Planning A Website and Digital CV Part 1
+about Digital CV Part 1
+
+day 22
+about Digital CV Part 2
 
 
