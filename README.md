@@ -73,4 +73,7 @@ about Digital CV Part 2
 day 23
 about Digital CV Part 3
 
+day 24
+about Digital CV Part 4
+
 
