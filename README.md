@@ -76,4 +76,7 @@ about Digital CV Part 3
 day 24
 about Digital CV Part 4
 
+day 25
+about Introduction to Web 3.0 - Part 1 
+
 
